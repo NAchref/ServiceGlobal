@@ -6,10 +6,6 @@
 namespace Inc\Pages ;
 
 
-/**
- * 
- */
-
  class Admin
  {
    public function register(){

@@ -4,11 +4,14 @@
  * @package ServiceGlobal
  * 
  * Plugin Name: Global Courtier Services
- * A specfic wordpress plugin created for personal site Global Courtier
+ *
+ * Description: a specfic wordpress plugin created for personal site Global Courtier
  * by awebi-it to manage services create, update and delete ...
+ * 
  * Version: 1.0
  * Author: Nachref
  * Author URI: https://globalcourtier.awebi-lab.com
+ * 
  */
 
 
