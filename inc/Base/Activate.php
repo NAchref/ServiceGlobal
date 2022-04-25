@@ -3,7 +3,7 @@
  * @package ServiceGlobal
  */
 
-namespace Inc; 
+namespace Inc\Base; 
 
 class Activate
 {
