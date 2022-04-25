@@ -17,6 +17,7 @@ public static function get_services(){
   return[
     Pages\Admin::class,
     Base\Enqueue::class,
+    Base\SettingsLinks::class
 
   ];
 }  
