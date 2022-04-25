@@ -4,7 +4,8 @@
  * @package ServiceGlobal
  * 
  * Plugin Name: Global Courtier Services
- * Descritpion: A specfic wordpress plugin created for personal site Global Courtier by awebi-it to manage services create, update and delete ...
+ * A specfic wordpress plugin created for personal site Global Courtier
+ * by awebi-it to manage services create, update and delete ...
  * Version: 1.0
  * Author: Nachref
  * Author URI: https://globalcourtier.awebi-lab.com
@@ -19,8 +20,8 @@ if(file_exists(dirname(__FILE__).'/vendor/autoload.php')){
 }
 
 
-define('PLUGIN_PATH',plugin_dir_path(__FILE));
-define('PLUGIN_URL',plugin_dir_url(__FILE));
+define('PLUGIN_PATH',plugin_dir_path( __FILE__ ));
+define('PLUGIN_URL',plugin_dir_url(__FILE__));
 
 if ( class_exists('Inc\\Init')){
 
