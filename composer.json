@@ -1,0 +1,17 @@
+{
+    "name": "a/service-global",
+    "description": "GLobal Courtier plugin of services",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "NAchref",
+            "email": "achref.nefzaoui@esprit.tn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\":"./inc"}
+    }
+}
