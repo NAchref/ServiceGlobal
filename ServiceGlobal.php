@@ -5,8 +5,7 @@
  * 
  * Plugin Name: Global Courtier Services
  *
- * Description: a specfic wordpress plugin created for * * personal site Global Courtier
- * by awebi-it to manage services create, update and delete ...
+ * Description: a specfic wordpress plugin created for personal site Global Courtier created by awebi-it to manage services create, update and delete ...
  * 
  * Version: 1.0
  * Author: Nachref
